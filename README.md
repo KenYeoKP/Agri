@@ -5,19 +5,6 @@
 ## 1. Overview of the Submitted Folder and Folder Structure
 This repository contains the necessary files and scripts to execute an end-to-end machine learning pipeline for predicting temperature conditions and classifying plant types and stages based on data from sensors.
 
-### Folder Structure:
-Agri/  
-├── .github/  
-│ └── workflows/  
-│&nbsp;&nbsp; └── github-actions.yml  
-├── src/  
-│ ├── main1.py  
-│ └── main2.py  
-├── requirements.txt  
-├── run.sh  
-├── eda.ipynb  
-└── README.md  
-
 ## 2. Flow of pipeline
 1. Data loading and understanding
 2. Conduct Exploratory Data Analysis (EDA)
